@@ -1,0 +1,1 @@
+export const HOW_ABOUT_YOU = "いまどうしてる？"
